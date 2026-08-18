@@ -14,12 +14,12 @@ building AI-operated tooling so one person can run it like a team.
 
 ### Selected work
 
-**🤖 An agentic engineering org for a 4-repo product** — per-repo AI coding
+**🤖 [An agentic engineering org for a 4-repo product](https://github.com/koolah88/portfolio/blob/main/cases/2026-08-14-agentic-dev-workflow.md)** — per-repo AI coding
 agents with hard boundaries, a deploy skill, and a UAT runner that drives the
 iOS simulator and verifies against the staging DB. Solo-maintaining a
 5-market product is an org-design problem, not a typing-speed problem.
 
-**💬 WhatsApp Flows cost engineering** — compressed a 6–15 message support
+**💬 [WhatsApp Flows cost engineering](https://github.com/koolah88/portfolio/blob/main/cases/2026-08-11-whatsapp-flows-talent-selfservice.md)** — compressed a 6–15 message support
 conversation into 1 billable message by redesigning the journey around what
 Meta's new pricing doesn't meter. ~10x messaging-cost reduction, encrypted
 data-exchange chain at ~750ms round trip.
@@ -36,11 +36,14 @@ race-condition money bug hunted to ground on both client and server.
 12-scene recap video for ~$0.30 of API cost, driven by subtitles instead of
 frames. Includes a genuine ffmpeg 7.x deadlock war story.
 
-**📹 CCTV + AI loss prevention** — rules-then-LLM review funnel for a
+**📹 [CCTV + AI loss prevention](https://github.com/koolah88/portfolio/blob/main/cases/2026-08-18-cctv-ai-loss-prevention.md)** — rules-then-LLM review funnel for a
 40-store retail chain: 214 raw motion triggers a day distilled to 3 events
 and 90 seconds of human review.
 
-More case studies in [koolah88/portfolio](https://github.com/koolah88/portfolio).
+**📱 [Porting a legacy bare React Native app to Expo](https://github.com/koolah88/portfolio/blob/main/cases/2026-08-17-rn-to-expo-v3-migration.md)** — parallel AI
+workstreams and multi-region build schemes on a production talent app.
+
+More case studies in **[koolah88/portfolio](https://github.com/koolah88/portfolio)** →
 
 ### Beyond work
 
