@@ -48,4 +48,4 @@ I over-engineer my home: a Jellyfin media stack run like production (GPU
 runbooks, transcode watchdog with WhatsApp alerts), a custom Android Chinese
 pinyin keyboard, and an auto-publishing badminton results fan page.
 
-📫 info.softsupplies@gmail.com
+📫 [LinkedIn](https://www.linkedin.com/in/koolah/) · info.softsupplies@gmail.com
